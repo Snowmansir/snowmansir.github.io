@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Snow-happiness in one location
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://snowmansir.github.io/'
 
 github:
   username: snowmansir             # change to your github username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/profile_image/hello.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
