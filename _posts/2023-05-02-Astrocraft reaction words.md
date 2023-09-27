@@ -9,6 +9,7 @@ tags: [minecraft, astrocraft]                   #tags should always be lowercase
 Obsidian
 Aurora
 Redstone
-Feed" | newline_to_br| split: ", " %}
+Feed
+Jupiter" | newline_to_br| split: ", " %}
 
 {{ my_array | sort_natural | join: ", " }}
