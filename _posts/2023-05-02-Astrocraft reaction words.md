@@ -8,6 +8,7 @@ tags: [minecraft, astrocraft]                   #tags should always be lowercase
 {% assign reaction = "
 Obsidian,
 Aurora,
+Boss,
 Redstone,
 Feed,
 Jupiter,
