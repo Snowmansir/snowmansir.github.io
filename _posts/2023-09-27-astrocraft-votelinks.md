@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Astrocraft
+title: Astrocraft votelinks
 date: 2023-09-23 12:40 +0200
-tags: [minecraft]                   #tags should always be lowercase
+tags: [minecraft, astrocraft]                   #tags should always be lowercase
 ---
 
 
