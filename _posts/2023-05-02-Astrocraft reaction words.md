@@ -9,6 +9,8 @@ tags: [minecraft, astrocraft]                   #tags should always be lowercase
 Obsidian,
 Aurora,
 Boss,
+Skyblock,
+Nether,
 Redstone,
 Feed,
 Jupiter,
