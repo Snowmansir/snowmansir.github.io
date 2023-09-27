@@ -11,6 +11,7 @@ Aurora,
 Redstone,
 Feed,
 Jupiter,
+Coal,
 Hierarchy," | split: "," %}
 
 {{ reaction | sort_natural | join: ",  "}}
