@@ -5,11 +5,14 @@ date: 2023-09-23 12:42 +0200
 tags: [minecraft, astrocraft]                   #tags should always be lowercase
 ---
 
-{% assign my_array = "
-Obsidian
-Aurora
-Redstone
-Feed
-Jupiter" | newline_to_br| split: ", " %}
+{% assign reaction = "
+Obsidian,
+Aurora,
+Redstone,
+Feed,
+Jupiter,
+Hierarchy," | split: "," %}
 
-{{ my_array | sort_natural | join: ", " }}
+{{ reaction | sort_natural | join: ",  "}}
+{% for member in reaction %}
+{% endfor %}
