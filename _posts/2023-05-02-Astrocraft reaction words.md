@@ -19,6 +19,7 @@ Diamond,
 Plate,
 Apollo,
 Sunrise,
+Idiosyncrasy,
 Cider,
 Hierarchy," | split: "," %}
 
