@@ -12,6 +12,8 @@ Redstone,
 Feed,
 Jupiter,
 Coal,
+Aerglo,
+Cider,
 Hierarchy," | split: "," %}
 
 {{ reaction | sort_natural | join: ",  "}}
